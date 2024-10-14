@@ -72,14 +72,6 @@ To Exit the Software enter 0
 
 - Thanks to the developers and contributors of the PrettyTable library for making it easy to display tabular data in Python.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
-Feel free to reach out if you have any questions or need assistance regarding this project!
-
-
-
-This README provides a comprehensive overview of your project, making it easier for users to understand its purpose, how to set it up, and how to use it. Let me know if you need any modifications or additional sections!
+Feel free to contact me if you have any questions or need any help with this project!
